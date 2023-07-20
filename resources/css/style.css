@@ -6,5 +6,16 @@ body {
 
 .header--main {
   font-weight: normal;
-  font-size: #fff;
+  font-size: 50px;
+ 
+
+}
+
+h1{
+  color: #fff;
+}
+
+.link--cta {
+  font-size: 16px;
+  color: aquamarine;
 }
